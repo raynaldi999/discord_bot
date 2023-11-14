@@ -20,7 +20,7 @@ This Discord bot allows users to translate messages into different languages usi
 
 Installation
 Clone the repository:
-git clone https://github.com/your-username/your-repo.git
+git clone https://github.com/raynaldi999/discord_bot.git
 cd your-repo
 
 Create a virtual environment (optional but recommended):
