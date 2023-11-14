@@ -66,7 +66,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/your-username/your-repo.git
+git clone https://github.com/raynaldi999/discord_bot.git
 cd your-repo
 Create a virtual environment (optional but recommended):
 
@@ -105,7 +105,7 @@ Submit a pull request.
 License
 This project is licensed under the MIT License.
 
-Gantilah "your-username/your-repo" dengan nama pengguna GitHub Anda dan nama repositori yang sesuai. Juga, pastikan untuk menyesuaikan instruksi instalasi sesuai kebutuhan proyek Anda.
+Gantilah "raynaldi999/discord_bot" dengan nama pengguna GitHub Anda dan nama repositori yang sesuai. Juga, pastikan untuk menyesuaikan instruksi instalasi sesuai kebutuhan proyek Anda.
 
 !!!UNTUK MENCARI FILENYA BERADA DI 11 informatika/DATASCIENCE/BOT TRANSLATE!!!
 
